@@ -1,5 +1,16 @@
 {-# LANGUAGE QuasiQuotes #-}
 
+{- |
+Module                  : MODULE_NAME
+Copyright               : (c) 2020 Kowainik
+SPDX-License-Identifier : MPL-2.0
+Maintainer              : Kowainik <xrom.xkov@gmail.com>
+Stability               : Stable
+Portability             : Portable
+
+LONG_DESC
+-}
+
 {- HLINT ignore "Reduce duplication" -}
 
 {- |

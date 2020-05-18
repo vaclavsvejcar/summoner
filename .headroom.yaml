@@ -1,0 +1,20 @@
+run-mode: replace
+
+source-paths:
+- summoner-cli/src/
+- summoner-tui/src/
+
+excluded-paths: []
+
+template-paths:
+- headroom-templates
+
+variables: {}
+
+license-headers:
+  haskell:
+    put-after: ["^{-#"]
+    margin-before: 1
+    margin-after: 1
+    line-comment:
+      prefixed-by: "--"
